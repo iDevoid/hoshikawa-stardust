@@ -1,5 +1,5 @@
-# risu-peanuts
-The source code of [ayundarisu.moe](https://ayundarisu.moe) webpage, this is fan made and not related to Nijisanji Company.
+# hoshikawa-stardust
+The source code of [hoshikawa.moe](https://hoshikawa.moe) webpage, this is fan made and not related to Nijisanji Company.
 
 ## Related Projects I've made
 - [iofi.moe source code](https://github.com/iDevoid/iofi-ufo)
